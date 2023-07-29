@@ -1,6 +1,6 @@
 # About Me :
-FullStack Web & .Net Developer
-
+FullStack Web & .Net Developer.
+<a href="https://app.daily.dev/doroudi"><img src="https://api.daily.dev/devcards/20566b846ea745148679670c2c73ef0f.png?r=f15" width="400" alt="Saeid Doroudi's Dev Card"/></a>
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/doroudi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/doroudi.saeid) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/5292901) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/yummycode) 
 
